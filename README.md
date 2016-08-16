@@ -1,13 +1,27 @@
 # study-online-judge
+
 #### This project is for archiving practical argorithm study through online judge. It is started from August 14th, 2016.
 
-#### Created by
-Jisung Lim ( iejisung@gmail.com )
+Created by
+----------
+### [Jay Lim](https://github.com/jisunglim)
 
-## #1 Cycle of Specific Function
+#### B.S. Candidate in industrial engineering
+#### Yonsei University, South Korea
+
+Reference
+---------
+### [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)
+
+Version
+-------
+### v1.0-SNAPSHOT (since 2016.08.14)
+
+ #1 Cycle of Specific Function
+------------------------------
 * let a, b be the integer greater than or equal to 0, and also less than or equal to 9.
 
-* Specific function F is defined as following :   
+* Specific function F is defined as following :
     ```F( a * 10 + b ) = b + ( a + b ) % 10```
 
 

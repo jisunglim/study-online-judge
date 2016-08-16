@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by 엘지 on 2016-08-14.
  */
-public class fibonacci {
+public class Fibonacci {
 
   public static void main(String[] args) {
 
